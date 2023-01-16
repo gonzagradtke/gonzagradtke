@@ -1,17 +1,11 @@
-<h1 align="center">Hi 👋, I'm Iker</h1>
+<h1 align="center">Hi 👋, Soy @gonzagradtker</h1>
 <h3 align="center">I enjoy learning and collaborating with the community.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iker-36&label=Profile%20views&color=0e75b6&style=flat" alt="iker-36" /> </p>
 
-- 🔭 For Support [i-Support](https://discord.gg/AbS6b7Bcd7)
+- 💬 Ask me about **Hago servers de roleplay y discord**
 
-- 👯 I’m Ceo Of [Thz-Hosting](https://discord.gg/thz-hosting)
-
-- 👨‍💻 All of my projects are available at [https://github.com/IKER-36?tab=repositories](https://github.com/IKER-36?tab=repositories)
-
-- 💬 Ask me about **what you want**
-
-- 📫 How to reach me **Iker#3364**
+- 📫 How to reach me **Gonzaaaa#9882**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
