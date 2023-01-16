@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, Soy @gonzagradtker</h1>
 <h3 align="center">I enjoy learning and collaborating with the community.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=iker-36&label=Profile%20views&color=0e75b6&style=flat" alt="iker-36" /> </p>
+- 💬 Lo que cuento : **Hago servers de roleplay y discord**
 
-- 💬 Ask me about **Hago servers de roleplay y discord**
-
-- 📫 How to reach me **Gonzaaaa#9882**
+- 📫 Discord : **Gonzaaaa#9882**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://discord.gg/https://discord.gg/2cFWKz8GAA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/2cFWKz8GAA" height="30" width="40" /></a>
+<a href="https://discord.gg/TQeqsBpwwh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/TQeqsBpwwh" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
