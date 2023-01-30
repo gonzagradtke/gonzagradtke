@@ -2,4 +2,4 @@
 
 - 💬 Lo que cuento : **Todavia no se programar pero puedo ayudar en minimas cosas**
 
-- 📫 Discord : **Gonzaaaa#9882**
+- 📫 Discord : **gx#9882**
